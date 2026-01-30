@@ -103,9 +103,13 @@ Practical understanding of KNN
 Knowledge of feature scaling importance
 
 OUTPUTS 
+
 <img width="548" height="192" alt="Image" src="https://github.com/user-attachments/assets/585c91f6-993e-4a0f-8bb8-4d04727c4f53" />
+
 <img width="477" height="342" alt="Image" src="https://github.com/user-attachments/assets/a8d906b9-33d0-45f2-adea-a892a63b9ee9" />
+
 <img width="448" height="393" alt="Image" src="https://github.com/user-attachments/assets/f7044c6f-3c1b-46c2-9244-30375a417284" />
+
 <img width="569" height="203" alt="Image" src="https://github.com/user-attachments/assets/0ed0a8b0-e398-432f-bc90-d30a5921bcdf" />
 
 
